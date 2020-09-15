@@ -18,9 +18,9 @@ html {
   right: 0;
 }
 @media only screen and (min-width: 642px) and (max-width: 1090px) {   
-  #dolphin {    
-    right: 0;   
+  #dolphin {   
     top: 100px;  
+    right: 0;   
   } 
 }
 
